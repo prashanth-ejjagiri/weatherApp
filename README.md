@@ -8,9 +8,6 @@ A simple weather app that allows users to check the current weather conditions f
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -35,8 +32,4 @@ Before you begin, ensure you have the following:
 
 ```bash
 git clone https://github.com/prashanth-ejjagiri/weatherApp.git
-cd weatherApp``
-
-##Usage
--Enter the name of the city in the search input.
-Click the search button to fetch and display the current weather data.
+cd weatherApp
