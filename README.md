@@ -35,4 +35,8 @@ Before you begin, ensure you have the following:
 
 ```bash
 git clone https://github.com/prashanth-ejjagiri/weatherApp.git
-cd weather-app
+cd weatherApp``
+
+##Usage
+-Enter the name of the city in the search input.
+Click the search button to fetch and display the current weather data.
